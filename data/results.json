@@ -1,16 +1,5 @@
-{
-  "Businesses": [
     {
       "Name": "CPK",
       "Address": "LA"
-    },
-    {
-      "Name": "Papa Johns",
-      "Address": "Venice"
-    },
-    {
-      "Name": "Mamas and Papas",
-      "Address": "Santa Monica"
     }
-  ]
-}
+
